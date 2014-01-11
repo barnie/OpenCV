@@ -1,4 +1,4 @@
 OpenCV
 ======
 
-Repository for my small project in OpenCV.
+Repository for my small projects in OpenCV.
